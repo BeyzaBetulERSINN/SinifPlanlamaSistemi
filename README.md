@@ -1,0 +1,2 @@
+# SınıfPlanlamaSistemi
+ kayıt.txt listesinden(başka bir dosyada olabilir) karışık olarak verilen öğrenci kayıtlarının sınıf palanını yapar. Fazla olan isimleri silip kayıt sırasına göre sıralama, öğrenci numarası atama, öğrenci numaralarına göre atama yapar. Sınıf dağılımını birinci öğretimler için ayrı ikinci öğretimler için ayrı olacak şekilde eşit dağılım ve En az dağılım(girilen sınıf kapasitelerini büyükten  küçüğe doğru sıralama)şekilnde sınıflara ayırır.
